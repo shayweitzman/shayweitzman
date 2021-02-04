@@ -2,6 +2,8 @@
 I'm Shay Weitzman.
 <br>
 Software engeneering 2nd year student at SCE college .
+<br>
+LinkenIn: www.linkedin.com/in/ShayWeitzman
 
 ---
 ### Languages and Tools:
