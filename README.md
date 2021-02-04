@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-My name is Shay Weitzman.
+I'm Shay Weitzman.
 Software engeneering 2nd year student at SCE college .
 
 ---
