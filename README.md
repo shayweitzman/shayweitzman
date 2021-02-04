@@ -10,8 +10,8 @@ Software engeneering 2nd year student at SCE college .
 <img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayweitzman)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayweitzman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ---
