@@ -3,7 +3,7 @@ I'm Shay Weitzman.
 <br>
 Software engineering 2nd year student.
 <br>
-LinkenIn: [Click Here](https://www.linkedin.com/in/ShayWeitzman) 
+LinkedIn: [Click Here](https://www.linkedin.com/in/ShayWeitzman) 
 
 ---
 ### Languages and Tools:
