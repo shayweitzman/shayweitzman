@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I'm Shay Weitzman.
 <br>
-Software engineering 3rd year student.
+Software engineering 4th year student.
 <br>
 LinkedIn: [Click Here](https://www.linkedin.com/in/ShayWeitzman) 
 
